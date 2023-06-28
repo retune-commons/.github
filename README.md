@@ -1,4 +1,4 @@
-# .github
+# ReTune Commons
 
 ![logo_ReTune_Commons](https://github.com/retune-commons/.github/assets/72917013/9d1e70da-bd2a-46d8-9fe1-28b8d2edcf13)
 
